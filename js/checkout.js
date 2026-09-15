@@ -5,7 +5,7 @@ form.addEventListener("submit",async e=>{
  const btn=document.getElementById("placeOrder");btn.disabled=true;btn.textContent="Submitting...";
  const f=new FormData(form); const payload={customer:{name:f.get("name"),mobile:f.get("mobile"),email:f.get("email"),state:f.get("state"),address:f.get("address")},items:items.map(x=>({productId:x.id,quantity:x.qty}))};
  // Change this URL after deploying the Vercel API.
-const API_URL="svbtsvks-nmj3-ox102c8xc-nithyasri1.vercel.app/api/orders";
+const API_URL="https://svbtsvks-nmj3-glftyrci2-nithyasri1.vercel.app/api/orders";
  
  try{const r=await fetch(API_URL,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});const data=await r.json();if(!r.ok)throw new Error(data.error||"Order failed");localStorage.removeItem(CART_KEY);location.href=`success.html?orderId=${encodeURIComponent(data.orderId)}`;}
  catch(err){msg.innerHTML=`<div class="error">${escapeHtml(err.message)}<br><small>Make sure the Vercel API URL is configured in checkout.js.</small></div>`;btn.disabled=false;btn.textContent="Place Order";}
