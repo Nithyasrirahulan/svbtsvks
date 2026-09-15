@@ -6,3 +6,7 @@
 #about .info-card h3 {
   color: #ffd071;
 }
+#about .info-card h3,
+#about .info-card li {
+  color: #ffd071;
+}
