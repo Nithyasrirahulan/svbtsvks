@@ -11,26 +11,11 @@ const ORDER_EMAIL =
 // CORS
 // ==========================================
 
-function cors(req, res) {
 
-  const allowedOrigins = [
-    "https://www.svbtsivakasi.in",
-    "https://svbtsivakasi.in",
-    "https://nithyasrirahulan.github.io"
-  ];
-
-  const origin = req.headers.origin;
-
-  if (allowedOrigins.includes(origin)) {
-    res.setHeader(
-      "Access-Control-Allow-Origin",
-      origin
-    );
-  }
-
+ function cors(req, res) {
   res.setHeader(
-    "Vary",
-    "Origin"
+    "Access-Control-Allow-Origin",
+    "*"
   );
 
   res.setHeader(
@@ -43,7 +28,6 @@ function cors(req, res) {
     "Content-Type"
   );
 }
-
 
 // ==========================================
 // ESCAPE HTML
