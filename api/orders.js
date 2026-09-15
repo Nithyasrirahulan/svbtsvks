@@ -519,21 +519,12 @@ module.exports = async (req, res) => {
     // ==========================================
 
     if (result.error) {
+  console.error("RESEND ERROR:", result.error);
 
-      console.error(
-        "Resend error:",
-        result.error
-      );
-
-      return res.status(502).json({
-
-        error:
-          "Email could not be sent. Please try again."
-
-      });
-
-    }
-
+  return res.status(502).json({
+    error: result.error.message || "Resend email error"
+  });
+}
 
     // ==========================================
     // SUCCESS RESPONSE
