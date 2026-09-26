@@ -778,7 +778,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 270.0,
     "currency": "INR",
-     "image": "images/products/a70.jpg"
+     "image": "images/products/a70.webp"
   },
   {
     "id": "a70",
@@ -789,7 +789,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 270.0,
     "currency": "INR",
-     "image": "images/products/a71.jpg"
+     "image": "images/products/a7.jpeg"
   },
   {
     "id": "a71",
@@ -954,7 +954,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 1350.0,
     "currency": "INR",
-     "image": "images/products/a86.jpg"
+     "image": "images/products/a86.webp"
   },
   {
     "id": "a86",
@@ -1130,7 +1130,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 400.0,
     "currency": "INR",
-     "image": "images/products/a102.jpg"
+     "image": "images/products/a101 (2).jpg"
   },
   {
     "id": "a102",
@@ -1141,7 +1141,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 550.0,
     "currency": "INR",
-     "image": "images/products/a103.jpg"
+     "image": "images/products/a101 (2).jpg"
   },
   {
     "id": "a103",
@@ -1174,7 +1174,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 1150.0,
     "currency": "INR",
-     "image": "images/products/a106.jpg"
+     "image": "images/products/a105.jpg"
   },
   {
     "id": "a106",
