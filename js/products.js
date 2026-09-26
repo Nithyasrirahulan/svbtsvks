@@ -7,7 +7,7 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 8.0,
-    "currency": "INR"
+    "currency": "INR",
     "image": "images/products/a101.jpg"
   },
   {
