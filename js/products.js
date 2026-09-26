@@ -29,7 +29,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 20.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a4",
@@ -40,7 +41,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 40.0,
     "currency": "INR",
-    "image": "images/products/a101.jpg"
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a5",
@@ -50,7 +51,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 60.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a6",
@@ -60,7 +62,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 80.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a7",
@@ -70,7 +73,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 45.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a8",
@@ -80,7 +84,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 50.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a9",
@@ -90,7 +95,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 100.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a10",
@@ -100,7 +106,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a11",
@@ -110,7 +117,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 50.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a12",
@@ -120,7 +128,8 @@ const PRODUCTS = [
     "category": "One/Two Sound Crackers",
     "brand": "Multi Brand",
     "offerPrice": 60.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a13",
@@ -130,7 +139,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 70.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a14",
@@ -140,7 +150,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a201",
@@ -150,7 +161,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 40.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a202",
@@ -160,7 +172,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 80.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a15",
@@ -170,7 +183,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a16",
@@ -180,7 +194,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 400.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a17",
@@ -190,7 +205,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 1000.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a18",
@@ -200,7 +216,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Multi Brand",
     "offerPrice": 2000.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a19",
@@ -210,7 +227,8 @@ const PRODUCTS = [
     "category": "Bomb",
     "brand": "Multi Brand",
     "offerPrice": 75.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a20",
@@ -220,7 +238,8 @@ const PRODUCTS = [
     "category": "Bomb",
     "brand": "Multi Brand",
     "offerPrice": 100.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a21",
@@ -230,7 +249,8 @@ const PRODUCTS = [
     "category": "Bomb",
     "brand": "Multi Brand",
     "offerPrice": 130.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a22",
@@ -240,7 +260,8 @@ const PRODUCTS = [
     "category": "Bomb",
     "brand": "Multi Brand",
     "offerPrice": 225.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a23",
@@ -250,7 +271,8 @@ const PRODUCTS = [
     "category": "Bomb",
     "brand": "Multi Brand",
     "offerPrice": 300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a24",
@@ -260,7 +282,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 32.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a25",
@@ -270,7 +293,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 40.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a26",
@@ -280,7 +304,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 95.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a27",
@@ -290,7 +315,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 60.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a28",
@@ -300,7 +326,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 80.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a29",
@@ -310,7 +337,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 130.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a30",
@@ -320,7 +348,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Multi Brand",
     "offerPrice": 95.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a31",
@@ -330,7 +359,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Multi Brand",
     "offerPrice": 85.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a32",
@@ -340,7 +370,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Multi Brand",
     "offerPrice": 105.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a33",
@@ -350,7 +381,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Multi Brand",
     "offerPrice": 270.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a34",
@@ -360,7 +392,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Multi Brand",
     "offerPrice": 525.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a35",
@@ -370,7 +403,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Multi Brand",
     "offerPrice": 260.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a36",
@@ -380,7 +414,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 220.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a37",
@@ -390,7 +425,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 70.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a38",
@@ -400,7 +436,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 240.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a39",
@@ -410,7 +447,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 330.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a40",
@@ -420,7 +458,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a41",
@@ -430,7 +469,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a42",
@@ -440,7 +480,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 410.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a43",
@@ -450,7 +491,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a44",
@@ -460,7 +502,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 230.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a45",
@@ -470,7 +513,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 215.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a46",
@@ -480,7 +524,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a47",
@@ -490,7 +535,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 320.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a48",
@@ -500,7 +546,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 265.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a49",
@@ -510,7 +557,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 480.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a50",
@@ -520,7 +568,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 550.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a51",
@@ -530,7 +579,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 95.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a52",
@@ -540,7 +590,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 160.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a53",
@@ -550,7 +601,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 225.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a54",
@@ -560,7 +612,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 140.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a55",
@@ -570,7 +623,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 255.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a56",
@@ -580,7 +634,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 265.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a57",
@@ -590,7 +645,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a58",
@@ -600,7 +656,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 285.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a59",
@@ -610,7 +667,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 215.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a60",
@@ -620,7 +678,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 165.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a61",
@@ -630,7 +689,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 335.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a62",
@@ -640,7 +700,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 110.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a63",
@@ -650,7 +711,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 145.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a64",
@@ -660,7 +722,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 155.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a65",
@@ -670,7 +733,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 85.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a66",
@@ -680,7 +744,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 85.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a67",
@@ -690,7 +755,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 120.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a68",
@@ -700,7 +766,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 120.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a69",
@@ -710,7 +777,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 270.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a70",
@@ -720,7 +788,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 270.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a71",
@@ -730,7 +799,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Multi Brand",
     "offerPrice": 270.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a72",
@@ -740,7 +810,8 @@ const PRODUCTS = [
     "category": "Rockets",
     "brand": "Multi Brand",
     "offerPrice": 195.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a73",
@@ -750,7 +821,8 @@ const PRODUCTS = [
     "category": "Rockets",
     "brand": "Multi Brand",
     "offerPrice": 185.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a74",
@@ -760,7 +832,8 @@ const PRODUCTS = [
     "category": "Twinkling / Pencil",
     "brand": "Multi Brand",
     "offerPrice": 25.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a75",
@@ -770,7 +843,8 @@ const PRODUCTS = [
     "category": "Twinkling / Pencil",
     "brand": "Multi Brand",
     "offerPrice": 70.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a76",
@@ -780,7 +854,8 @@ const PRODUCTS = [
     "category": "Twinkling / Pencil",
     "brand": "Multi Brand",
     "offerPrice": 310.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a77",
@@ -790,7 +865,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 140.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a78",
@@ -800,7 +876,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 235.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a79",
@@ -810,7 +887,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a80",
@@ -820,7 +898,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a81",
@@ -830,7 +909,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 290.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a82",
@@ -840,7 +920,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 410.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a83",
@@ -850,7 +931,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 450.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a84",
@@ -860,7 +942,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 550.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a85",
@@ -870,7 +953,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 1350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a86",
@@ -880,7 +964,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 900.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a87",
@@ -890,7 +975,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 1100.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a88",
@@ -900,7 +986,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 1800.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a89",
@@ -910,7 +997,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 2200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a90",
@@ -920,7 +1008,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 3600.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a91",
@@ -930,7 +1019,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Multi Brand",
     "offerPrice": 4400.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a92",
@@ -940,7 +1030,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 175.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a93",
@@ -950,7 +1041,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a94",
@@ -960,7 +1052,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 125.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a95",
@@ -970,7 +1063,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a96",
@@ -980,7 +1074,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 240.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a97",
@@ -990,7 +1085,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 315.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a98",
@@ -1000,7 +1096,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 215.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a99",
@@ -1010,7 +1107,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 280.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a100",
@@ -1020,7 +1118,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 340.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a101",
@@ -1030,7 +1129,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 400.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a102",
@@ -1040,7 +1140,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 550.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a103",
@@ -1050,7 +1151,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 950.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a104",
@@ -1060,7 +1162,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 600.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a105",
@@ -1070,7 +1173,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 1150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a106",
@@ -1080,7 +1184,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 1050.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a107",
@@ -1090,7 +1195,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Multi Brand",
     "offerPrice": 3650.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a108",
@@ -1100,7 +1206,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 9.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a109",
@@ -1110,7 +1217,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 19.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a110",
@@ -1120,7 +1228,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 21.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a111",
@@ -1130,7 +1239,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 23.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a112",
@@ -1140,7 +1250,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 25.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a113",
@@ -1150,7 +1261,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 39.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a114",
@@ -1160,7 +1272,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 42.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a115",
@@ -1170,7 +1283,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 45.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a116",
@@ -1180,7 +1294,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 49.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a117",
@@ -1190,7 +1305,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 39.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a118",
@@ -1200,7 +1316,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 42.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a119",
@@ -1210,7 +1327,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 45.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a120",
@@ -1220,7 +1338,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 49.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a121",
@@ -1230,7 +1349,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a122",
@@ -1240,7 +1360,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a123",
@@ -1250,7 +1371,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a124",
@@ -1260,7 +1382,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 160.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a125",
@@ -1270,7 +1393,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 230.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a126",
@@ -1280,7 +1404,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 275.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a127",
@@ -1290,7 +1415,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Multi Brand",
     "offerPrice": 230.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a128",
@@ -1300,7 +1426,8 @@ const PRODUCTS = [
     "category": "Colour Matches",
     "brand": "Multi Brand",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a129",
@@ -1310,7 +1437,8 @@ const PRODUCTS = [
     "category": "Ring Cap / Gun",
     "brand": "Multi Brand",
     "offerPrice": 12.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a130",
@@ -1320,7 +1448,8 @@ const PRODUCTS = [
     "category": "Ring Cap / Gun",
     "brand": "Multi Brand",
     "offerPrice": 130.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a131",
@@ -1330,7 +1459,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a132",
@@ -1340,7 +1470,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 450.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a133",
@@ -1350,7 +1481,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 540.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a134",
@@ -1360,7 +1492,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 360.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a135",
@@ -1370,7 +1503,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 520.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a136",
@@ -1380,7 +1514,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 770.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a137",
@@ -1390,7 +1525,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 620.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a138",
@@ -1400,7 +1536,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 1030.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a139",
@@ -1410,7 +1547,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 720.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a140",
@@ -1420,7 +1558,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 870.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a141",
@@ -1430,7 +1569,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 1300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "a142",
@@ -1440,7 +1580,8 @@ const PRODUCTS = [
     "category": "Gift Box Nett Rate",
     "brand": "Multi Brand",
     "offerPrice": 1650.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s1",
@@ -1450,7 +1591,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 25.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s2",
@@ -1460,7 +1602,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 65.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s3",
@@ -1470,7 +1613,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 85.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s4",
@@ -1480,7 +1624,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 110.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s5",
@@ -1490,7 +1635,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 100.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s6",
@@ -1500,7 +1646,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 115.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s7",
@@ -1510,7 +1657,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s8",
@@ -1520,7 +1668,8 @@ const PRODUCTS = [
     "category": "Sparklers",
     "brand": "Standard Fireworks",
     "offerPrice": 60.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s9",
@@ -1530,7 +1679,8 @@ const PRODUCTS = [
     "category": "One Sound Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 50.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s10",
@@ -1540,7 +1690,8 @@ const PRODUCTS = [
     "category": "One Sound Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 65.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s11",
@@ -1550,7 +1701,8 @@ const PRODUCTS = [
     "category": "One Sound Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 45.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s12",
@@ -1560,7 +1712,8 @@ const PRODUCTS = [
     "category": "One Sound Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 65.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s13",
@@ -1570,7 +1723,8 @@ const PRODUCTS = [
     "category": "Bomb",
     "brand": "Standard Fireworks",
     "offerPrice": 190.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s14",
@@ -1580,7 +1734,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 190.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s15",
@@ -1590,7 +1745,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s16",
@@ -1600,7 +1756,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 530.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s17",
@@ -1610,7 +1767,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s18",
@@ -1620,7 +1778,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 630.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s19",
@@ -1630,7 +1789,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 640.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s20",
@@ -1640,7 +1800,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 50.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s21",
@@ -1650,7 +1811,8 @@ const PRODUCTS = [
     "category": "Flower Pots",
     "brand": "Standard Fireworks",
     "offerPrice": 125.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s22",
@@ -1660,7 +1822,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 165.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s23",
@@ -1670,7 +1833,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 75.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s24",
@@ -1680,7 +1844,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 125.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s25",
@@ -1690,7 +1855,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 215.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s26",
@@ -1700,7 +1866,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 280.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s27",
@@ -1710,7 +1877,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 310.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s28",
@@ -1720,7 +1888,8 @@ const PRODUCTS = [
     "category": "Ground Ckakkar",
     "brand": "Standard Fireworks",
     "offerPrice": 85.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s29",
@@ -1730,7 +1899,8 @@ const PRODUCTS = [
     "category": "Twinkling / Pencil",
     "brand": "Standard Fireworks",
     "offerPrice": 70.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s30",
@@ -1740,7 +1910,8 @@ const PRODUCTS = [
     "category": "Twinkling / Pencil",
     "brand": "Standard Fireworks",
     "offerPrice": 220.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s31",
@@ -1750,7 +1921,8 @@ const PRODUCTS = [
     "category": "Twinkling / Pencil",
     "brand": "Standard Fireworks",
     "offerPrice": 285.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s32",
@@ -1760,7 +1932,8 @@ const PRODUCTS = [
     "category": "Rockets",
     "brand": "Standard Fireworks",
     "offerPrice": 190.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s33",
@@ -1770,7 +1943,8 @@ const PRODUCTS = [
     "category": "Rockets",
     "brand": "Standard Fireworks",
     "offerPrice": 205.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s34",
@@ -1780,7 +1954,8 @@ const PRODUCTS = [
     "category": "Rockets",
     "brand": "Standard Fireworks",
     "offerPrice": 330.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s35",
@@ -1790,7 +1965,8 @@ const PRODUCTS = [
     "category": "Rockets",
     "brand": "Standard Fireworks",
     "offerPrice": 825.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s36",
@@ -1800,7 +1976,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 650.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s37",
@@ -1810,7 +1987,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 1300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s38",
@@ -1820,7 +1998,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 3050.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s39",
@@ -1830,7 +2009,8 @@ const PRODUCTS = [
     "category": "Multi Sound Magic Crackers",
     "brand": "Standard Fireworks",
     "offerPrice": 6100.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s40",
@@ -1840,7 +2020,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 101.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s41",
@@ -1850,7 +2031,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 201.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s42",
@@ -1860,7 +2042,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 251.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s43",
@@ -1870,7 +2053,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 444.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s44",
@@ -1880,7 +2064,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 120.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s45",
@@ -1890,7 +2075,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 418.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s46",
@@ -1900,7 +2086,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 418.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s47",
@@ -1910,7 +2097,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 418.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s48",
@@ -1920,7 +2108,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 388.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s49",
@@ -1930,7 +2119,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 410.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s50",
@@ -1940,7 +2130,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 673.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s51",
@@ -1950,7 +2141,8 @@ const PRODUCTS = [
     "category": "Fancy Fireworks",
     "brand": "Standard Fireworks",
     "offerPrice": 118.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s52",
@@ -1960,7 +2152,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 175.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s53",
@@ -1970,7 +2163,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 75.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s54",
@@ -1980,7 +2174,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 1100.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s55",
@@ -1990,7 +2185,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s56",
@@ -2000,7 +2196,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s57",
@@ -2010,7 +2207,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 160.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s58",
@@ -2020,7 +2218,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s59",
@@ -2030,7 +2229,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s60",
@@ -2040,7 +2240,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 475.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s61",
@@ -2050,7 +2251,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 475.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s62",
@@ -2060,7 +2262,8 @@ const PRODUCTS = [
     "category": "Fancy Sky Shot",
     "brand": "Standard Fireworks",
     "offerPrice": 950.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s63",
@@ -2070,7 +2273,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s64",
@@ -2080,7 +2284,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 350.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s65",
@@ -2090,7 +2295,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 225.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s66",
@@ -2100,7 +2306,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 380.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s67",
@@ -2110,7 +2317,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 800.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s68",
@@ -2120,7 +2328,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 850.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s69",
@@ -2130,7 +2339,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 900.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s70",
@@ -2140,7 +2350,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 1200.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s71",
@@ -2150,7 +2361,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 1500.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s72",
@@ -2160,7 +2372,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 2300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s73",
@@ -2170,7 +2383,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 6500.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s74",
@@ -2180,7 +2394,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 2700.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s75",
@@ -2190,7 +2405,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 6300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s76",
@@ -2200,7 +2416,8 @@ const PRODUCTS = [
     "category": "Multi ( Colour / Musical ) Sky Shots",
     "brand": "Standard Fireworks",
     "offerPrice": 7250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "s77",
@@ -2210,7 +2427,8 @@ const PRODUCTS = [
     "category": "Gift Box",
     "brand": "Standard Fireworks",
     "offerPrice": 2300.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v1",
@@ -2220,7 +2438,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 190.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v2",
@@ -2230,7 +2449,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 310.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v3",
@@ -2240,7 +2460,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 1160.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v4",
@@ -2250,7 +2471,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 1010.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v5",
@@ -2260,7 +2482,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 1275.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v6",
@@ -2270,7 +2493,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 8150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v7",
@@ -2280,7 +2504,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 10750.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v8",
@@ -2290,7 +2515,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 150.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v9",
@@ -2300,7 +2526,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 215.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v10",
@@ -2310,7 +2537,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 320.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v11",
@@ -2320,7 +2548,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 630.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v12",
@@ -2330,7 +2559,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 310.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v13",
@@ -2340,7 +2570,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 430.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v14",
@@ -2350,7 +2581,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 875.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v15",
@@ -2360,7 +2592,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 2222.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v16",
@@ -2370,7 +2603,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 3325.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "v17",
@@ -2380,7 +2614,8 @@ const PRODUCTS = [
     "category": "Vanitha Fire Works",
     "brand": "Vanitha",
     "offerPrice": 2250.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "ss1",
@@ -2390,7 +2625,8 @@ const PRODUCTS = [
     "category": "Sunshine Fire Works",
     "brand": "Sunshine",
     "offerPrice": 560.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "ss2",
@@ -2400,7 +2636,8 @@ const PRODUCTS = [
     "category": "Sunshine Fire Works",
     "brand": "Sunshine",
     "offerPrice": 640.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "ss3",
@@ -2410,7 +2647,8 @@ const PRODUCTS = [
     "category": "Sunshine Fire Works",
     "brand": "Sunshine",
     "offerPrice": 860.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "ss4",
@@ -2420,7 +2658,8 @@ const PRODUCTS = [
     "category": "Sunshine Fire Works",
     "brand": "Sunshine",
     "offerPrice": 675.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   },
   {
     "id": "ss5",
@@ -2430,6 +2669,7 @@ const PRODUCTS = [
     "category": "Sunshine Fire Works",
     "brand": "Sunshine",
     "offerPrice": 880.0,
-    "currency": "INR"
+    "currency": "INR",
+     "image": "images/products/a1.jpg"
   }
 ];
