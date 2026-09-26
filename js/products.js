@@ -8,6 +8,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 8.0,
     "currency": "INR"
+    "image": "images/products/a101.jpg"
   },
   {
     "id": "a2",
