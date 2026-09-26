@@ -1229,7 +1229,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 21.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a111",
@@ -1240,7 +1240,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 23.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a112.jpg"
   },
   {
     "id": "a112",
@@ -1251,7 +1251,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 25.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a113webp"
   },
   {
     "id": "a113",
@@ -1262,7 +1262,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 39.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a114",
@@ -1273,7 +1273,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 42.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a115",
@@ -1284,7 +1284,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 45.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a112.jpg"
   },
   {
     "id": "a116",
@@ -1295,7 +1295,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 49.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a113.webp"
   },
   {
     "id": "a117",
@@ -1306,7 +1306,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 39.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a118",
@@ -1317,7 +1317,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 42.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a119",
@@ -1328,7 +1328,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 45.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a112.jpg"
   },
   {
     "id": "a120",
@@ -1339,7 +1339,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 49.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a113.webp"
   },
   {
     "id": "a121",
@@ -1350,7 +1350,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 150.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a122",
@@ -1361,7 +1361,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 200.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a123",
@@ -1372,7 +1372,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 250.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a111.jpg"
   },
   {
     "id": "a124",
@@ -1383,7 +1383,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 160.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a125.webp"
   },
   {
     "id": "a125",
@@ -1394,7 +1394,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 230.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a125.webp"
   },
   {
     "id": "a126",
@@ -1405,7 +1405,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 275.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a125.webp"
   },
   {
     "id": "a127",
@@ -1416,7 +1416,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 230.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a128.jpeg"
   },
   {
     "id": "a128",
@@ -1427,7 +1427,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 350.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a129.jpeg"
   },
   {
     "id": "a129",
@@ -1438,7 +1438,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 12.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a130.jpg"
   },
   {
     "id": "a130",
@@ -1449,7 +1449,7 @@ const PRODUCTS = [
     "brand": "Multi Brand",
     "offerPrice": 130.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a131.jpg"
   },
   {
     "id": "a131",
@@ -1592,7 +1592,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 25.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a144.jpg"
   },
   {
     "id": "s2",
@@ -1603,7 +1603,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 65.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a145.jpg"
   },
   {
     "id": "s3",
@@ -1614,7 +1614,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 85.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a146.jpg"
   },
   {
     "id": "s4",
@@ -1625,7 +1625,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 110.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a146.jpg"
   },
   {
     "id": "s5",
@@ -1636,7 +1636,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 100.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a148.jpg"
   },
   {
     "id": "s6",
@@ -1647,7 +1647,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 115.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a149.webp"
   },
   {
     "id": "s7",
@@ -1658,7 +1658,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 300.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a150.jpg"
   },
   {
     "id": "s8",
@@ -1669,7 +1669,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 60.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a151.jpg"
   },
   {
     "id": "s9",
@@ -1680,7 +1680,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 50.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a152.jpg"
   },
   {
     "id": "s10",
@@ -1691,7 +1691,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 65.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a153.jpg"
   },
   {
     "id": "s11",
@@ -1702,7 +1702,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 45.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a154.jpg"
   },
   {
     "id": "s12",
@@ -1713,7 +1713,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 65.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a155.jpg"
   },
   {
     "id": "s13",
@@ -1724,7 +1724,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 190.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a156.jpg"
   },
   {
     "id": "s14",
@@ -1735,7 +1735,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 190.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a157.jpg"
   },
   {
     "id": "s15",
@@ -1746,7 +1746,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 250.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a158.jpg"
   },
   {
     "id": "s16",
@@ -1757,7 +1757,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 530.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a159.jpg"
   },
   {
     "id": "s17",
@@ -1768,7 +1768,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 350.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a160.jpg"
   },
   {
     "id": "s18",
@@ -1779,7 +1779,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 630.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a161.jpg"
   },
   {
     "id": "s19",
@@ -1790,7 +1790,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 640.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a162.jpg"
   },
   {
     "id": "s20",
@@ -1801,7 +1801,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 50.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a163.jpeg"
   },
   {
     "id": "s21",
@@ -1812,7 +1812,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 125.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a164.jpg"
   },
   {
     "id": "s22",
@@ -1823,7 +1823,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 165.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a165.jpg"
   },
   {
     "id": "s23",
@@ -1834,7 +1834,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 75.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a166.jpg"
   },
   {
     "id": "s24",
@@ -1845,7 +1845,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 125.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a167.jpeg"
   },
   {
     "id": "s25",
@@ -1856,7 +1856,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 215.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a168.jpg"
   },
   {
     "id": "s26",
@@ -1867,7 +1867,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 280.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a169.jpg"
   },
   {
     "id": "s27",
@@ -1878,7 +1878,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 310.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a170.jpg"
   },
   {
     "id": "s28",
@@ -1889,7 +1889,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 85.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a171.jpg"
   },
   {
     "id": "s29",
@@ -1900,7 +1900,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 70.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a172.jpg"
   },
   {
     "id": "s30",
@@ -1911,7 +1911,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 220.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a173.jpg"
   },
   {
     "id": "s31",
@@ -1922,7 +1922,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 285.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a174.jpg"
   },
   {
     "id": "s32",
@@ -1933,7 +1933,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 190.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a175.jpg"
   },
   {
     "id": "s33",
@@ -1944,7 +1944,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 205.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a176.jpg"
   },
   {
     "id": "s34",
@@ -1955,7 +1955,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 330.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a177.jpg"
   },
   {
     "id": "s35",
@@ -1966,7 +1966,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 825.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a178.jpg"
   },
   {
     "id": "s36",
@@ -1977,7 +1977,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 650.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a17.jpg"
   },
   {
     "id": "s37",
@@ -1988,7 +1988,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 1300.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a18.jpg"
   },
   {
     "id": "s38",
@@ -1999,7 +1999,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 3050.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a19.jpg"
   },
   {
     "id": "s39",
@@ -2010,7 +2010,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 6100.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a20.jpg"
   },
   {
     "id": "s40",
@@ -2021,7 +2021,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 101.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a183.jpg"
   },
   {
     "id": "s41",
@@ -2032,7 +2032,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 201.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a183.jpg"
   },
   {
     "id": "s42",
@@ -2043,7 +2043,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 251.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a185.jpg"
   },
   {
     "id": "s43",
@@ -2054,7 +2054,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 444.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a186.jpg"
   },
   {
     "id": "s44",
@@ -2065,7 +2065,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 120.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a187.jpg"
   },
   {
     "id": "s45",
@@ -2076,7 +2076,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 418.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a188.jpg"
   },
   {
     "id": "s46",
@@ -2087,7 +2087,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 418.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a189.jpg"
   },
   {
     "id": "s47",
@@ -2098,7 +2098,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 418.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a190.jpg"
   },
   {
     "id": "s48",
@@ -2109,7 +2109,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 388.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a191.jpg"
   },
   {
     "id": "s49",
@@ -2120,7 +2120,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 410.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a192.jpg"
   },
   {
     "id": "s50",
@@ -2131,7 +2131,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 673.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a193.jpg"
   },
   {
     "id": "s51",
@@ -2164,7 +2164,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 75.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a196.jpg"
   },
   {
     "id": "s54",
@@ -2175,7 +2175,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 1100.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a197.jpg"
   },
   {
     "id": "s55",
@@ -2186,7 +2186,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 150.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a198.jpg"
   },
   {
     "id": "s56",
@@ -2197,7 +2197,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 150.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a199.jpg"
   },
   {
     "id": "s57",
@@ -2208,7 +2208,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 160.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a200.jpg"
   },
   {
     "id": "s58",
@@ -2219,7 +2219,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 200.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a201.jpg"
   },
   {
     "id": "s59",
@@ -2230,7 +2230,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 250.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a202.jpg"
   },
   {
     "id": "s60",
@@ -2241,7 +2241,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 475.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a203.jpg"
   },
   {
     "id": "s61",
@@ -2252,7 +2252,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 475.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a100.jpg"
   },
   {
     "id": "s62",
@@ -2307,7 +2307,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 380.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a209.jpg"
   },
   {
     "id": "s67",
@@ -2318,7 +2318,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 800.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a210.jpg"
   },
   {
     "id": "s68",
@@ -2329,7 +2329,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 850.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a211.jpg"
   },
   {
     "id": "s69",
@@ -2340,7 +2340,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 900.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a212.jpg"
   },
   {
     "id": "s70",
@@ -2351,7 +2351,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 1200.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a213.jpg"
   },
   {
     "id": "s71",
@@ -2362,7 +2362,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 1500.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a214.jpg"
   },
   {
     "id": "s72",
@@ -2373,7 +2373,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 2300.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a215.jpg"
   },
   {
     "id": "s73",
@@ -2384,7 +2384,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 6500.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a216.jpg"
   },
   {
     "id": "s74",
@@ -2395,7 +2395,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 2700.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a217.jpg"
   },
   {
     "id": "s75",
@@ -2406,7 +2406,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 6300.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a218.jpg"
   },
   {
     "id": "s76",
@@ -2417,7 +2417,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 7250.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a219.jpg"
   },
   {
     "id": "s77",
@@ -2428,7 +2428,7 @@ const PRODUCTS = [
     "brand": "Standard Fireworks",
     "offerPrice": 2300.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a220.jpg"
   },
   {
     "id": "v1",
@@ -2439,7 +2439,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 190.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a221.png"
   },
   {
     "id": "v2",
@@ -2450,7 +2450,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 310.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a222.jpg"
   },
   {
     "id": "v3",
@@ -2461,7 +2461,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 1160.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a223.jpg"
   },
   {
     "id": "v4",
@@ -2472,7 +2472,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 1010.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a224.jpg"
   },
   {
     "id": "v5",
@@ -2483,7 +2483,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 1275.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a225.jpg"
   },
   {
     "id": "v6",
@@ -2494,7 +2494,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 8150.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a226.jpg"
   },
   {
     "id": "v7",
@@ -2505,7 +2505,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 10750.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a227.jpg"
   },
   {
     "id": "v8",
@@ -2516,7 +2516,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 150.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a228.webp"
   },
   {
     "id": "v9",
@@ -2527,7 +2527,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 215.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a229.webp"
   },
   {
     "id": "v10",
@@ -2538,7 +2538,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 320.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a230.jpg"
   },
   {
     "id": "v11",
@@ -2549,7 +2549,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 630.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a231.webp"
   },
   {
     "id": "v12",
@@ -2560,7 +2560,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 310.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a232.webp"
   },
   {
     "id": "v13",
@@ -2571,7 +2571,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 430.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a233.jpg"
   },
   {
     "id": "v14",
@@ -2582,7 +2582,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 875.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a234.png"
   },
   {
     "id": "v15",
@@ -2593,7 +2593,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 2222.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a235.webp"
   },
   {
     "id": "v16",
@@ -2604,7 +2604,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 3325.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a236.jpg"
   },
   {
     "id": "v17",
@@ -2615,7 +2615,7 @@ const PRODUCTS = [
     "brand": "Vanitha",
     "offerPrice": 2250.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a237.jpg"
   },
   {
     "id": "ss1",
@@ -2626,7 +2626,7 @@ const PRODUCTS = [
     "brand": "Sunshine",
     "offerPrice": 560.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a238.jpg"
   },
   {
     "id": "ss2",
@@ -2637,7 +2637,7 @@ const PRODUCTS = [
     "brand": "Sunshine",
     "offerPrice": 640.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a239.jpg"
   },
   {
     "id": "ss3",
@@ -2648,7 +2648,7 @@ const PRODUCTS = [
     "brand": "Sunshine",
     "offerPrice": 860.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a240.jpg"
   },
   {
     "id": "ss4",
@@ -2659,7 +2659,7 @@ const PRODUCTS = [
     "brand": "Sunshine",
     "offerPrice": 675.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a240.jpg"
   },
   {
     "id": "ss5",
@@ -2670,6 +2670,6 @@ const PRODUCTS = [
     "brand": "Sunshine",
     "offerPrice": 880.0,
     "currency": "INR",
-     "image": "images/products/a1.jpg"
+     "image": "images/products/a240.jpg"
   }
 ];
